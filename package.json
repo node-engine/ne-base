@@ -1,0 +1,22 @@
+{
+  "name": "ne-base",
+  "version": "0.0.1",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-engine/ne-base.git"
+  },
+  "author": "Bernard Hamann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/node-engine/ne-base/issues"
+  },
+  "homepage": "https://github.com/node-engine/ne-base#readme",
+  "dependencies": {
+  
+  }
+}
